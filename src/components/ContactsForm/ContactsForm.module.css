@@ -8,7 +8,7 @@
 
 .label {
   font-weight: bold;
-  color:#d42626;
+  color: #d42683;
    
 }
 
@@ -25,7 +25,7 @@ margin-left: 10px;
     width: 150px;
     margin-left: 80px;
   padding: 8px 12px;
-  background-color: #69202a;
+  background-color: #d42683;
   color: white;
   border: none;
   cursor: pointer;

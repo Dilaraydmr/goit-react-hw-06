@@ -5,7 +5,7 @@
 
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
+  background-color: #f090c2;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -33,10 +33,10 @@ body {
 h1 {
   font-size: 3.2em;
   line-height: 1.1;
-  color: #d42626;
+  color:  #d42683;
 }
 h2{
-  color: #d42626;
+  color:  #d42683;
 }
 button {
   border-radius: 8px;

@@ -3,18 +3,18 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    border: 1px solid #d42626;
+    border: 1px solid #d42683;
     padding: 10px;
     margin-bottom: 5px;
 }
 
 .deleteButton {
-    background-color: #f44336;
+    background-color: #d42683;
     color: white;
     border: none;
     padding: 5px 10px;
     cursor: pointer;
 }
 .deleteButton:hover {
-    background-color: rgb(224, 130, 130);
+    background-color: rgb(237, 198, 198);
 }
