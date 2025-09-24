@@ -1,0 +1,35 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.label {
+  font-weight: bold;
+  color:#d42626;
+   
+}
+
+.input {
+  margin-top: 5px;
+  padding: 5px;
+  font-size: 1rem;
+margin-left: 10px;
+
+}
+
+.button {
+    margin-top: 10px;
+    width: 150px;
+    margin-left: 80px;
+  padding: 8px 12px;
+  background-color: #69202a;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+.button:hover{
+    background-color:rgb(209, 61, 61);
+}
